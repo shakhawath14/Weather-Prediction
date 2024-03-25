@@ -1,4 +1,4 @@
-# Weather-Prediction
+# Weather Prediction Using Machine Learning Algorithms
 
 ## Group 5 - Babas
 
